@@ -1,14 +1,19 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "fiz": [
+    { "review_date": 1, "passport_sn": "Post 1", "passport_number": "51616131", "pinfl": "2524564", "all_debet_sum": "21316",
+     "debets": "231616", "id": 132, "area_name": "13131", "org_id": 213, "org_type":"131", "debet_summa": "asdas", "features": "asd"
+    },
+    { "review_date": 1, "passport_sn": "Post 1", "passport_number": "51616131", "pinfl": "2524564", "all_debet_sum": "21316",
+     "debets": "231616", "id": 132, "area_name": "13131", "org_id": 213, "org_type":"131", "debet_summa": "asdas", "features": "asd"
+    },
+    { "review_date": 1, "passport_sn": "Post 1", "passport_number": "51616131", "pinfl": "2524564", "all_debet_sum": "21316",
+     "debets": "231616", "id": 132, "area_name": "13131", "org_id": 213, "org_type":"131", "debet_summa": "asdas", "features": "asd"
+    },
+    { "review_date": 1, "passport_sn": "Post 1", "passport_number": "51616131", "pinfl": "2524564", "all_debet_sum": "21316",
+     "debets": "231616", "id": 132, "area_name": "13131", "org_id": 213, "org_type":"131", "debet_summa": "asdas", "features": "asd"
+    },
+    { "review_date": 1, "passport_sn": "Post 1", "passport_number": "51616131", "pinfl": "2524564", "all_debet_sum": "21316",
+     "debets": "231616", "id": 132, "area_name": "13131", "org_id": 213, "org_type":"131", "debet_summa": "asdas", "features": "asd"
+    }
+  ]
 }
